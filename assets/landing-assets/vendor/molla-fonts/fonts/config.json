@@ -14036,7 +14036,7 @@
     },
     {
       "uid": "6e160427eff206850616b52a553ddaa4",
-      "css": "venus",
+      "css": "Embroiderys",
       "code": 61985,
       "src": "custom_icons",
       "selected": false,
@@ -14045,7 +14045,7 @@
         "width": 562.5
       },
       "search": [
-        "venus"
+        "Embroiderys"
       ]
     },
     {
@@ -14106,7 +14106,7 @@
     },
     {
       "uid": "7af2b8e824417f9d8ba0e9d4273b780c",
-      "css": "venus-double",
+      "css": "Embroiderys-double",
       "code": 61990,
       "src": "custom_icons",
       "selected": false,
@@ -14115,7 +14115,7 @@
         "width": 1000
       },
       "search": [
-        "venus-double"
+        "Embroiderys-double"
       ]
     },
     {
@@ -14134,7 +14134,7 @@
     },
     {
       "uid": "19b6316af474e2a1766c4494ed9bcb41",
-      "css": "venus-mars",
+      "css": "Embroiderys-mars",
       "code": 61992,
       "src": "custom_icons",
       "selected": false,
@@ -14143,7 +14143,7 @@
         "width": 1125
       },
       "search": [
-        "venus-mars"
+        "Embroiderys-mars"
       ]
     },
     {
@@ -25768,7 +25768,7 @@
     },
     {
       "uid": "a1634ecccec72c11d5aa60b776330fbb",
-      "css": "venus",
+      "css": "Embroiderys",
       "code": 62314,
       "src": "custom_icons",
       "selected": false,
@@ -25777,7 +25777,7 @@
         "width": 1000
       },
       "search": [
-        "venus"
+        "Embroiderys"
       ]
     },
     {
@@ -28820,7 +28820,7 @@
     },
     {
       "uid": "45e0dde8ba9352ea61bd3f5132bb2a35",
-      "css": "venus-double",
+      "css": "Embroiderys-double",
       "code": 62315,
       "src": "custom_icons",
       "selected": false,
@@ -28829,7 +28829,7 @@
         "width": 1000
       },
       "search": [
-        "venus-double"
+        "Embroiderys-double"
       ]
     },
     {
@@ -31088,7 +31088,7 @@
     },
     {
       "uid": "e30a7470df2e3e1a530ca7f41dd33552",
-      "css": "venus-mars",
+      "css": "Embroiderys-mars",
       "code": 62316,
       "src": "custom_icons",
       "selected": false,
@@ -31097,7 +31097,7 @@
         "width": 1000
       },
       "search": [
-        "venus-mars"
+        "Embroiderys-mars"
       ]
     },
     {
